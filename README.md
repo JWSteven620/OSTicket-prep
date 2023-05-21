@@ -46,10 +46,10 @@ Tutorial (https://docs.google.com/document/d/12QH7yrsaiUfYNOgZK7KgTSZQSJ-HYTSVcG
 </p>
 
 <b>- Access Programs the select Turn windows features on or off than check and expand the following:</b>
-    - Select Internet Information Services
-    - World Wide Web Services
-    - Application Development Features 
-    - CGI
+  - Select Internet Information Services
+  - World Wide Web Services
+  - Application Development Features 
+  - CGI
 -Then select ok
 
 <br />
