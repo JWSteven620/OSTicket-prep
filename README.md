@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RNkpAvk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Open the following link in your VM
 Tutorial (https://docs.google.com/document/d/12QH7yrsaiUfYNOgZK7KgTSZQSJ-HYTSVcGFildWMRig/edit#)
@@ -47,12 +47,12 @@ Tutorial (https://docs.google.com/document/d/12QH7yrsaiUfYNOgZK7KgTSZQSJ-HYTSVcG
 
 - Access Programs the select Turn windows features on or off than check and expand the following:
  - Select Internet Information Services
-  - World Wide Web Services
-  - Application Development Features 
-  - CGI
+ - World Wide Web Services
+ - Application Development Features 
+ - CGI
 -Then select ok
 
-</p>
+
 <br />
 
 <p>
