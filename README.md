@@ -45,13 +45,12 @@ Tutorial (https://docs.google.com/document/d/12QH7yrsaiUfYNOgZK7KgTSZQSJ-HYTSVcG
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-- Access Programs the select Turn windows features on or off than check and expand the following:
- - Select Internet Information Services
- - World Wide Web Services
- - Application Development Features 
- - CGI
+<b>- Access Programs the select Turn windows features on or off than check and expand the following:<b/>
+  - Select Internet Information Services
+  - World Wide Web Services
+  - Application Development Features 
+  - CGI
 -Then select ok
-
 
 <br />
 
