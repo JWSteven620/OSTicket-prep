@@ -29,8 +29,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://i.imgur.com/RNkpAvk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Open the following link in your VM
-Tutorial (https://docs.google.com/document/d/12QH7yrsaiUfYNOgZK7KgTSZQSJ-HYTSVcGFildWMRig/edit#)
+- Open the following link in your VM
+- Tutorial (https://docs.google.com/document/d/12QH7yrsaiUfYNOgZK7KgTSZQSJ-HYTSVcGFildWMRig/edit#)
 <br />
 
 <p>
@@ -50,7 +50,7 @@ Tutorial (https://docs.google.com/document/d/12QH7yrsaiUfYNOgZK7KgTSZQSJ-HYTSVcG
   - World Wide Web Services
   - Application Development Features 
   - CGI
--Then select ok
+- Then select ok
 
 <br />
 
