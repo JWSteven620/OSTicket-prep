@@ -67,12 +67,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <b>- Begin downloading the following files:</b> 
-    - PHP Manager
-    - Rewrite Module
-    - PHP 7.3.8
-    - VC_redist.x86.exe
-    - MySQL 5.5.62
-    - HeidiSQL
+   - PHP Manager
+   - Rewrite Module
+   - PHP 7.3.8
+   - VC_redist.x86.exe 
+   - MySQL 5.5.62
+   - HeidiSQL
 
 <br />
 
